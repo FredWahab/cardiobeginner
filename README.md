@@ -1,4 +1,7 @@
 cardio beginner app
+
+https://fredwahab.github.io/cardiobeginner/
+
 a simple app that cycles through a beginner friendly cardio workout.
 there are 3 phases: warmup, workout, cooldown.
 the workout phase has rests between each exercise.
