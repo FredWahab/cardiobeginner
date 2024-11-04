@@ -1,0 +1,41 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2#phase-header {
+    font-size: 1.5em;
+    margin-top: 10px;
+    color: #007bff;
+  }
+  
+  .workout-info p {
+    margin: 5px 0;
+  }
+  
+  .active-exercise {
+    font-weight: bold;
+    color: #007bff; /* Highlight active exercise */
+  }
+  
+  .small-text {
+    font-size: 0.8em;
+    color: #555;
+  }
+  
+  #exercise-timer {
+    color: #007bff; /* Change color of Exercise Time */
+  }
+  
+  .controls button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  
