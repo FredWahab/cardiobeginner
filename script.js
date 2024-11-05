@@ -36,7 +36,7 @@ const coolDownExercises = [
 
 let workoutPhase = 'warmup';
 let currentExerciseIndex = 0;
-let circuit = 1;
+let circuit = 2;
 let isPaused = true;
 let isRest = false;
 let timer;
